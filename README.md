@@ -48,3 +48,6 @@ The ratio of percentage change in capital-labour ratio with the percentage chang
 
 效用保持不变的情况下，边际替代率的百分比变动引起的商品比值的百分比变动大小。
 
+### **Return to Scale**
+
+
